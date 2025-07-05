@@ -1,0 +1,3 @@
+name = "router-eroken-workers-dev"
+main = "src/index.js"
+compatibility_date = "2024-05-07"
